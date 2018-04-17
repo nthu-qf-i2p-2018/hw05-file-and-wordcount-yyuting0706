@@ -45,7 +45,7 @@ def main(filename):
     ...
 
     # BONUS: dump to a pickle file named "wordcount.pkl"
-    ...
+    # hint: dump the Counter object directly
 
 
 if __name__ == '__main__':
